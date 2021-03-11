@@ -1,3 +1,0 @@
-# exeinfope
-
-Category: Binary

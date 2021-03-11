@@ -1,4 +1,0 @@
-# Bluebell
-  Decoder
-
-Tags: Encoding

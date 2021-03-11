@@ -1,3 +1,0 @@
-# plisteditor
-
-Category: Mobile, iOS

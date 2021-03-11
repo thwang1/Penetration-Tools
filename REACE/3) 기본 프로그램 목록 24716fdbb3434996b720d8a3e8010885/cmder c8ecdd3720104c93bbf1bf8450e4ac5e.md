@@ -1,3 +1,0 @@
-# cmder
-
-Tags: Shell, default

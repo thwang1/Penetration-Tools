@@ -1,3 +1,0 @@
-# Qtranslate
-
-Tags: Translate Lang

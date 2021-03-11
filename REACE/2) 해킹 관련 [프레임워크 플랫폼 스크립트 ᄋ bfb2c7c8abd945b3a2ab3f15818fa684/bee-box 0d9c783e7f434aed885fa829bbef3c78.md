@@ -1,3 +1,0 @@
-# bee-box
-
-Tags: Framework

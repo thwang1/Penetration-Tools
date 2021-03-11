@@ -1,3 +1,0 @@
-# pickpick
-
-Tags: Editor, Viewer

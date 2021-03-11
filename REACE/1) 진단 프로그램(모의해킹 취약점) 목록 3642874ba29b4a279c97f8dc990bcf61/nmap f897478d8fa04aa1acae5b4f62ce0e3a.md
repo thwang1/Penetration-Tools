@@ -1,3 +1,0 @@
-# nmap
-
-Category: Network

@@ -1,2 +1,0 @@
-# Cooxie
-Toolbar
