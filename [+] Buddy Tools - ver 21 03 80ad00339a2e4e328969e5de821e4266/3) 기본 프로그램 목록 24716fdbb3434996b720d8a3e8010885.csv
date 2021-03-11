@@ -1,0 +1,48 @@
+﻿Name,Tags,Help,Links
+Windows Terminal,"Shell, default, windows",windows 플랫폼,https://github.com/microsoft/terminal/releases
+Notepad++,"Editor, IDE",,
+putty,"Remote Shell, SSH",,
+winSCP,"FTP, Remote Shell, SSH",,
+"Cooxie
+  Toolbar","Browser, Plugin",,
+openssl ,SSL/TLS,,
+win32openssl ,SSL/TLS,,
+win64openssl ,SSL/TLS,,
+torbrowser,Browser,,https://www.torproject.org/download/
+Ares-master,"Remote Shell, Virus",,
+Astrogrep,"Searching, Viewer, windows",windows 플랫폼,http://astrogrep.sourceforge.net/
+"Bluebell
+  Decoder",Encoding,,
+hfs,"Server, windows","windows 플랫폼
+-Http 프로토콜 기반 파일전송 프로그램",https://www.rejetto.com/hfs/
+Filezlia,FTP,,
+jdk,Plugin,,
+python,Script,,
+한글오피스,"Viewer, default",,
+여기서명령창적용,"default, windows","windows 플랫폼
+※ 레지스트리 파일(.reg) 만들어야함
+",
+Bandzip,default,,
+chromedriver,default,,
+chromedriver-remote,default,,
+cmder,"Shell, default",,
+"DB browser
+  sqlite","Editor, Viewer",DB파일 뷰어,
+Everything,Searching,windows 플랫폼,
+git,Version Manage,,
+mountvol,"default, windows",windows 플랫폼,
+pickpick,"Editor, Viewer",,
+Qtranslate,Translate Lang,,
+snagit,"Editor, Viewer",,
+Sublime,"Editor, Viewer",,
+window10upgrade,"default, windows",windows 플랫폼,
+Vmware,VM,,
+bitvise(FTP-SSH),"FTP, Remote Shell, SSH, Viewer",,
+Xshell,"FTP, Remote Shell, SSH",,
+certutil,"default, windows","windows 플랫폼
+-파일의 해시값 획득 명령어",
+tsetup,"default, windows","windows 플랫폼
+-프로세스 분석",http://www.windowexe.com/bbs/board.php?q=tsetup-exe-c-windows-temp-tsetup-exe
+bitvise(FTP-SSH),"FTP, Remote Shell, SSH",,
+baregrep,Searching,,
+TransDriverInstall,Util,,
